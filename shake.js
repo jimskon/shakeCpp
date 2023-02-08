@@ -1,6 +1,7 @@
 // JavaScript shakespeare Demo
 // Jim Skon, Kenyon College, 2021
-const baseUrl = 'http://3.134.78.249:5002';
+const port = 5002;
+const baseUrl = 'http://192.168.100.174:'+port;
 
 console.log("Start!");
 // Add a click event for the search button
