@@ -3,6 +3,9 @@
 ## Uses cpp-httplib for the microservice
  - ```https://github.com/yhirose/cpp-httplib```
  
+## Open ports
+ - I recommend openning ports 5000-5010 to TCP traffic
+ 
 ## Install SSL and compression services
  - ```sudo apt-get install libz-dev```
  - ```sudo apt-get install libssl-dev```
